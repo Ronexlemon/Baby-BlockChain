@@ -7,9 +7,13 @@ It deals With goods or property such as buildings, cars
 # requirements
 1.Address of the owner,
 2.Address of the buyer,
+
 # Restrictions
 1.only the owner of the property can change, modify,delete a property.
-2. The owner can not buy or bids for the property
+2 . The owner can not buy or bids for the property
 
 
-
+# Security 
+Hashing the  addresses Using SHA512 -> difficult to decode
+# Products
+All Properties e.g Cars, Buildings, Land
